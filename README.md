@@ -8,10 +8,6 @@ I am a Full-stack Web Developer . Also I will create unique projects and clone w
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Hassan.ahmed.2006)  
 
-![I am hablu-programmer](https://github.com/harun181/harun181/blob/main/page.png)
-
-
-<h1 align="center">Hi 👋, I'm Hablu Programmer</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/hablu-programmer) 
