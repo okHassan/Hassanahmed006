@@ -74,9 +74,7 @@ I am a Full-stack Web Developer . Also I will create unique projects and clone w
             height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassanahmed006&show_icons=true&locale=en&layout=compact"
-        alt="Hassanahmed006" /></p>
+
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=Hassanahmed006&show_icons=true&locale=en"
