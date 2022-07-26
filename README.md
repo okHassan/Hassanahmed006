@@ -1,4 +1,6 @@
-### Hi there 👋, I am Hassan...
+<h1 align="center">Hey, good to see you <img
+        src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
+        width="30" /><br />I'm Hassan Ahmed</h1>
 #### ---------------------------------
 Hello everyone,
 
