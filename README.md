@@ -10,9 +10,11 @@ I am a Full-stack Web Developer . Also I will create unique projects and clone w
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Hassan.ahmed.2006)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hassanahmed006)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500"
-    height="auto" />
+![Profile views](https://gpvc.arturio.dev/Hassanahmed006) 
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img
@@ -75,10 +77,10 @@ I am a Full-stack Web Developer . Also I will create unique projects and clone w
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanahmed006)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Hassanahmed006&show_icons=true&locale=en"
-        alt="Hassanahmed006" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanahmed006&show_icons=true)  
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanahmed006&" alt="Hassanahmed006" />
 </p>
