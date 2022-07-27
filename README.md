@@ -7,6 +7,21 @@ Hello everyone,
 I am a Full-stack Web Developer . Also I will create unique projects and clone world wide web site and applications . programming is my passion . I like learn new technology and other things 😎
 
 
+🔭 I’m currently working on something cool 😎
+
+🌱 I’m currently learning Full Stack Development 🔥
+
+👨‍💻 All of my projects are available at my portfolio https://md-hassan.netlify.app/
+
+📝 I regularly write articles on . . . . . . . . .
+
+💬 Ask me about React, JavaScript, Node JS . . .
+
+📫 How to reach me hassan1132005@gmail.com
+
+⚡ Fun fact I think I'm crazy
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Hassan.ahmed.2006)  
 
